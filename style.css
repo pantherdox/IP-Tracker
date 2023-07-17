@@ -94,7 +94,7 @@ body {
     height: 600px;
   }
 
-  @media screen and (max-width: 425px){
+  @media screen and (max-width: 479px){
     #cardsContainer {
         z-index: 999;
         text-align: center;
