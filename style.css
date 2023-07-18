@@ -88,6 +88,11 @@ body {
   
   .card h2 {
     margin-top: 0;
+    font-size: small;
+  }
+
+  .card p{
+    font-size: larger;
   }
   
   #map {
